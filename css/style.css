@@ -16,11 +16,13 @@ input[type=reset],input[type=submit]{-webkit-appearance:button;cursor:pointer;}b
 body {
 	font-family: 'helvetica';
 	font-size: 16px;
+	color: #BADA55;
 }
 
 h1 {
 	font-family: 'Helvetica';
 	font-size: 1.33em;
+	color: blue;
 }
 
 p {
