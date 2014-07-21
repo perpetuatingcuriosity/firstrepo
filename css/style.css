@@ -12,3 +12,18 @@ input[type=reset],input[type=submit]{-webkit-appearance:button;cursor:pointer;}b
    height: 0;
    clear: both;
 }
+
+body {
+	font-family: 'helvetica';
+	font-size: 16px;
+}
+
+h1 {
+	font-family: 'Helvetica';
+	font-size: 1.33em;
+}
+
+p {
+	padding: 5px;
+	border-left: 2px solid #333;
+}
